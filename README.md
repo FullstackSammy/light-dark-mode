@@ -1,4 +1,4 @@
-# Light Mode | Dark Mode
+# Light Mode/Dark Mode | Javascript Side Project
 
 [Live Site](https://fullstacksammy.github.io/light-dark-mode/)
 
